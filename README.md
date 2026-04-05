@@ -4,8 +4,8 @@ Assignment 2
 <head>
   <title>Alexander Stoddart: The Sculptor Keeping Classical Art Alive</title>
   <style>
-      color: #222;
-      background-color: #f0f0f0;
+      color: #EDBC8D;
+      background-color: #8C92EB;
 
     h2 {
       border-bottom: 2px solid #b8860b;
