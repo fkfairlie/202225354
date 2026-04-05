@@ -1,18 +1,11 @@
 # 202225354
 Assignment 2
 <h1>Digital Tools and Data Journalism</h1>
-
 <head>
-  
   <title>Alexander Stoddart: The Sculptor Keeping Classical Art Alive</title>
   <style>
-    body {
-      max-width: 750px;
-      margin: auto;
-      padding: 20px;
       color: #222;
       background-color: #f0f0f0;
-    }
 
     h2 {
       border-bottom: 2px solid #b8860b;
@@ -38,46 +31,7 @@ Assignment 2
       text-align: center;
       color: #999;
       font-style: italic;
-    }
-
-    .caption {
-      font-size: 0.85em;
-      color: #666;
-      padding: 6px 0;
-    }
-
-    .stats {
-      display: flex;
-      border-top: 3px solid #b8860b;
-      margin: 24px 0;
-    }
-
-    .stat {
-      flex: 1;
-      text-align: center;
-      padding: 16px;
-    }
-
-    .stat .number {
-      display: block;
-      font-size: 1.8em;
-      font-weight: bold;
-      color: #b8860b;
-    }
-
-    .stat .desc {
-      font-size: 0.8em;
-      color: #666;
-    }
-
-    footer {
-      margin-top: 40px;
-      padding-top: 12px;
-      font-size: 0.85em;
-      color: #888;
-    }
-
-    footer a { color: #b8860b; }
+  
   </style>
 </head>
 <body>
