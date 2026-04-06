@@ -5,16 +5,21 @@ Assignment 2
 <title>P3471 Data Journalism</title>
 <style>
 
-.story1 {background-color: #f0f0f0;}
-.story2 { background-color: #1a3a5c; color: white;}
+.story1 {background-color: #f0f0f0; padding: 10px;}
+.story2 {background-color: #1a3a5c; color: white; padding: 10px;}
 
-blockquote { border-left: 4px solid #b8860b;padding: 10px;background: #e0e0e0;font-style: italic;}
+blockquote {border-left: 4px solid #b8860b; padding: 10px; background: #e0e0e0; font-style: italic;}
 
-.story2 blockquote { border-left: 4px solid #a8c8e8;background: #15304d;}
+.story2 blockquote {border-left: 4px solid #a8c8e8; background: #15304d;}
 
-.caption { font-size: 0.85em;color: grey;}
+h1 {text-align: center;}
+h1, h2 {text-align: center;}
+
+.caption {font-size: 0.85em; color: grey;}
 
 .story2 .caption {color: #a8c8e8;}
+
+
 
 </style>
 </head>
@@ -25,7 +30,7 @@ blockquote { border-left: 4px solid #b8860b;padding: 10px;background: #e0e0e0;fo
 
 <div class="story1" id="story1">
 
-<p>Arts and Culture</p>
+<p><b>Arts and Culture</b></p>
 
 <h1>Alexander Stoddart: The Sculptor Keeping Classical Art Alive</h1>
 
@@ -91,6 +96,7 @@ blockquote { border-left: 4px solid #b8860b;padding: 10px;background: #e0e0e0;fo
 
 <p>For those who have never encountered Stoddart's output, the statues on the Royal Mile are a good place to start. Stand beside a figure and consider the years it took to put him there. Consider the sketch, the clay, the scale model, the polystyrene, the Stoddcrete, the bronze foundry in Nairn. Then consider whether what you are looking at is a relic of the past or a model for its future.</p>
 
+<hr>
 <p><small>Sources: The Herald (Harrison, J., 2025); Public Statues and Sculpture Association (McKenzie, R., 2023); Prominent Painting (2025).</small></p>
 
 </div>
@@ -99,7 +105,7 @@ blockquote { border-left: 4px solid #b8860b;padding: 10px;background: #e0e0e0;fo
 
 <div class="story2" id="story2">
 
-<p>Travel and Heritage</p>
+<p><b>Travel and Heritage</b></p>
 
 <h1>A Home Away From Home: Uncovering the Scottish Ontario Towns Outside Toronto</h1>
 
@@ -159,11 +165,11 @@ blockquote { border-left: 4px solid #b8860b;padding: 10px;background: #e0e0e0;fo
 
 <p>Scotland is an hour outside Toronto, if you know where to look.</p>
 
+<hr>
 <p><small>Sources: The Canadian Encyclopaedia (2026); Elora BIA (2024); Grand River Conservation Authority (2024); Downtown Fergus (2019); Fergus Scottish Festival (2025); City of Guelph (n.d.); Daily Record, Smail (2025).</small></p>
 
 </div>
 
 </body>
-</html>
 </html>
     
