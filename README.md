@@ -8,10 +8,6 @@ Assignment 2
 .story1 {background-color: #f0f0f0;}
 .story2 { background-color: #1a3a5c; color: white;}
 
-h2 {border-bottom: 2px solid #b8860b;}
-
-.story2 h2 {border-bottom: 2px solid #a8c8e8;}
-
 blockquote { border-left: 4px solid #b8860b;padding: 10px;background: #e0e0e0;font-style: italic;}
 
 .story2 blockquote { border-left: 4px solid #a8c8e8;background: #15304d;}
