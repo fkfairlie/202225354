@@ -144,7 +144,8 @@ h1, h2 {text-align: center;}
 
 <p>Beyond the Games, Fergus rewards slower exploration. The downtown core, centred on St Andrew Street, contains independent shops, Scottish-themed pubs and restaurants that lean into the town's heritage without tipping into theme-park territory. The public gardens along the Grand River offer a quieter counterpoint to the town's festival energy. For visitors with Scottish ancestry, there is something quietly affecting about walking streets named for the places linked to their ancestors.</p>
 
-<!-- paste Flourish photo slider iframe here -->
+<div class="flourish-embed flourish-chart" data-src="visualisation/27821683"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/27821683/thumbnail" width="100%" alt="visualization" /></noscript></div>
+
 <p class="caption">The photo sliders above feature landscapes and landmarks from all three towns alongside comparable scenes from Scotland. The visual parallels are prominent in the stone buildings, the river gorges, and the Highland Games imagery, all of which help explain why the original settlers recognised something familiar in this corner of Ontario, and why visitors with Scottish roots continue to feel that recognition today.</p>
 
 <h2>Guelph: the novelist's city</h2>
