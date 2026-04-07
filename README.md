@@ -43,7 +43,9 @@ h1, h2 {text-align: center;}
 <p>The results are unmistakable if you know where to look. On Edinburgh's Royal Mile, two bronze figures face the crowds: Adam Smith, the economist, and David Hume, the philosopher, both cast by Stoddart. Across the Atlantic, his statue of John Witherspoon stands at Princeton University in New Jersey. Now, a new quarter of Dallas, Texas, is being built in the traditionalist style, and its architects have turned to Stoddart for the monumental sculpture it requires.</p>
 
 <blockquote>
-"For the past ten years I've been working with some architects in America," Stoddart told The Herald in 2025, "where they are building a new quarter in the city of Dallas in the traditionalist style... and they want some monumental sculpture for it. That's not a style for everyone, but for me, it's the highest calling man can reach."
+    
+"For the past ten years I've been working with some architects in America, where they are building a new quarter in the city of Dallas in the traditionalist style... and they want some monumental sculpture for it. That's not a style for everyone, but for me, it's the highest calling man can reach." Stoddart to The Herald in 2025.
+    
 </blockquote>
 
 <iframe src="https://uploads.knightlab.com/storymapjs/ca49664519034dc90ce6b2898b4fc2d0/alexander-stoddarts-statues/index.html" frameborder="0" width="100%" height="800"></iframe> 
@@ -74,7 +76,7 @@ h1, h2 {text-align: center;}
 
 <p class="caption">Art market trends, first half of 2025. Source: Prominent Painting, 2025.</p>
 
-<p>The figures are striking. Traditional art forms characterised by high-skill craftsmanship, the category in which Stoddart's work sits, surged by 35.6% in the first half of 2025, according to data compiled by Prominent Painting. Impressionist and Modern art, by contrast, fell by 7.7% in the same period. This is not a minor fluctuation. It represents a meaningful reorientation of where collectors are placing their money and, by extension, their confidence.</p>
+<p>The figures are striking. Traditional art forms characterised by high-skill craftsmanship which happens to be the category in which Stoddart's work sits, surged by 35.6% in the first half of 2025, according to data compiled by Prominent Painting. Impressionist and Modern art, by contrast, fell by 7.7% in the same period. This is not a minor fluctuation. It represents a meaningful reorientation of where collectors are placing their money and, by extension, their confidence.</p>
 
 <p>These trends align with a pattern that curators and dealers have been observing for some time: a growing appetite, particularly among younger collectors, for work that demonstrates visible skill and permanence. The reaction against what critics have called 'post-conceptual exhaustion', work whose value rests almost entirely on its idea rather than its making, has been building quietly for years. The 2025 figures suggest it is now moving markets.</p>
 
