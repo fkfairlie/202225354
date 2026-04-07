@@ -117,13 +117,13 @@ most notable public spaces and will endure beyond the debates that surrounded th
 
 <h1>A Home Away From Home: Uncovering the Scottish Ontario Towns Outside Toronto</h1>
 
-<p><i>An hour outside Canada's biggest city, three towns built by Scottish settlers in the 1820s and 1830s are quietly thriving and drawing visitors from across North America and beyond</i></p>
+<p><i>An hour outside Canada's biggest city, three towns built by Scottish settlers in the 1820s and 1830s are quietly thriving and drawing visitors from across North America and beyond. </i></p>
 
 <p>Drive an hour west of Toronto and something shifts. The skyscrapers and retail sprawl of the city give way to narrow roads lined with dense trees, limestone buildings, and street names that sound like they belong somewhere else entirely, Argyll Street, Edinburgh Avenue, names carried across the Atlantic almost two centuries ago by the Scottish settlers who founded these towns and shaped everything about them.</p>
 
-<p>Elora, Fergus, and Guelph are not widely recognised outside Ontario. They seldom feature in travel guides, and their links to Scotland are mainly documented in local history books and heritage plaques rather than in international media. However, this is beginning to change. Visitor numbers are increasing; the Fergus Highland Games attract tens of thousands from North America every August, and the University of Guelph's Centre for Scottish Studies, the oldest of its kind in North America, continues to strengthen the academic ties between this part of Canada and Scotland.</p>
+<p>Elora, Fergus, and Guelph are not widely known outside Ontario. They seldom feature in travel guides, and their links to Scotland are mainly documented in local history books and heritage plaques rather than in international media. However, this is beginning to change. Visitor numbers are increasing; the Fergus Highland Games attract tens of thousands from North America every August, and the University of Guelph's Centre for Scottish Studies, the oldest of its kind in North America, continues to strengthen the academic ties between this part of Canada and Scotland.</p>
 
-<p>This is the story of three towns that feel like secrets, despite having been there for nearly two hundred years.</p>
+<p>This is the untold story of three towns that feel like secrets, despite having been there for nearly two hundred years.</p>
 
 <iframe src="https://uploads.knightlab.com/storymapjs/ca49664519034dc90ce6b2898b4fc2d0/elora/index.html" frameborder="0" width="100%" height="800"></iframe>
 
@@ -144,7 +144,8 @@ most notable public spaces and will endure beyond the debates that surrounded th
 
 <p>Thirty kilometres north of Elora, following the Grand River, Fergus reveals its identity before you have finished parking. The street names, including Argyll, St Andrew, and Edinburgh, serve as the first indication. The limestone buildings, many of which are original to the town's 1833 founding by Adam Fergusson and John Webster of Perthshire, are the second. The third, if you visit in August, is the sound of pipes.</p>
 
-<p>The Fergus Scottish Festival and Highland Games is the town's largest annual event and one of the most significant celebrations of Scottish culture in North America. Every August, the town hosts pipe bands, Highland dancers, heavy athletes and clan societies from across Canada, the United States and Scotland itself. The event's reach extends far beyond a local curiosity. It is a genuine cultural gathering that draws visitors who travel specifically for it.</p>
+<p>The Fergus Scottish Festival and Highland Games is the town's largest annual event and one of the most significant celebrations of Scottish culture in North America. Every August, the town hosts pipe bands, Highland dancers, heavy athletes and clan societies from across Canada, the United States and Scotland itself. The event's reach extends far beyond a local curiosity; it is
+a significant cultural gathering that draws visitors who travel specifically for it.The geographic breakdown of attendees illustrates that this is not a local event, it is a continental one.</p>
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/27821683"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/27821683/thumbnail" width="100%" alt="visualization" /></noscript></div>
 
@@ -158,11 +159,11 @@ most notable public spaces and will endure beyond the debates that surrounded th
 
 <h2>Guelph: the novelist's city</h2>
 
-<p>Guelph is the largest of the three towns and the most urban, but it retains a character that sets it apart from the generic fabric of Greater Toronto's commuter belt. It was founded in 1827 by John Galt, the Scottish novelist, best known for his 1821 novel Annals of the Parish, who was commissioned by the Canada Company to design a settlement that would attract settlers and generate revenue. Galt chose the name Guelph after one of the Royal Family's surnames and laid the town out with deliberate care, selecting the site at the Speed River himself.</p>
+<p>Guelph is the largest of the three towns and the most urban, but it retains a character that sets it apart from the generic fabric of Greater Toronto's commuter belt. It was founded in 1827 by John Galt, the Scottish novelist, best known for his 1821 novel 'Annals of the Parish', who was commissioned by the Canada Company to design a settlement that would attract settlers and generate revenue. Galt named the town Guelph after the surname of a member of the Royal Family and and laid the town out with deliberate care, selecting the site at the Speed River himself.</p>
 
-<p>Galt's literary background is visible in the way Guelph was conceived, not merely as a functional settlement, but as a place with civic ambition. The Church of Our Lady Immaculate, a grand basilica positioned on a hill at the centre of the original grid, is visible from almost everywhere in downtown Guelph. It was not an accident of geography. It was a statement of intent.</p>
+<p>Galt's literary background is visible in the way Guelph was conceived, not merely as a functional settlement, but as a place with civic ambition. The Church of Our Lady Immaculate, a grand basilica positioned on a hill at the centre of the original grid, is visible from almost everywhere in downtown Guelph. It was not an accident of geography; it was a statement of intent.</p>
 
-<p>Today, Guelph's character is shaped as much by its university as by its founding history. The University of Guelph brings a youthful energy to the city which includes street art, farmers' markets, an active restaurant scene, that exists alongside the heritage architecture rather than displacing it. The University's Centre for Scottish Studies, founded in 1968, is the oldest and most academically significant unit devoted to Scottish history and culture in North America. It represents a continuous, serious engagement with the heritage that Galt and his contemporaries brought to this part of Canada nearly two centuries ago.</p>
+<p>Today, Guelph's character is shaped as much by its university as by its founding history. The University of Guelph brings a youthful energy to the city which includes street art, farmers' markets and an active restaurant scene, that exists alongside the heritage architecture rather than displacing it. The University's Centre for Scottish Studies, founded in 1968, is the oldest and most academically significant unit devoted to Scottish history and culture in North America. It represents a continuous, serious engagement with the heritage that Galt and his contemporaries brought to this part of Canada nearly two centuries ago.</p>
 
 <h2>Two hundred years of growth</h2>
 
@@ -174,7 +175,7 @@ most notable public spaces and will endure beyond the debates that surrounded th
 
 <p>There is a version of this story that frames Elora, Fergus and Guelph simply as heritage destinations and pleasant places to visit for a weekend, notable for their limestone buildings and their Highland Games. That version is not wrong, but it is incomplete.</p>
 
-<p>These are not towns that remember Scotland in the way a souvenir shop remembers it. They are towns built by people carrying specific skills, specific values, and specific place names with them, and that have spent nearly two hundred years repeatedly deciding to keep those things alive. Two centuries later, the towns they built still carry that recognition. You can feel it in the street names, in the piping at the Games, in the stone of the buildings.</p>
+<p>These are not towns that remember Scotland in the way a souvenir shop remembers it. These are towns built by people carrying specific skills, specific values, and specific place names with them, and that have spent nearly two hundred years repeatedly deciding to keep those things alive. Two centuries later, the towns they built still carry that recognition. You can feel it in the street names, in the piping at the Games, in the stone of the buildings.</p>
 
 <p>Scotland is an hour outside Toronto, if you know where to look.</p>
 
