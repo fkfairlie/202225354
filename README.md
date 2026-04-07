@@ -133,6 +133,7 @@ h1, h2 {text-align: center;}
 
 <p>The town itself has preserved its built environment with care. The buildings along Metcalfe Street date largely to the 1850s, and the independent shops and cafes that occupy them resist the homogenisation that has come for so many small towns. Elora's entertainment calendar includes the Elora Singers Festival and Riverfest Elora, both of which draw visitors from well beyond the town's modest population.</p>
 
+
 <h2>Fergus: where Scotland never left</h2>
 
 <p>Thirty kilometres north of Elora, following the Grand River, Fergus reveals its identity before you have finished parking. The street names, including Argyll, St Andrew, and Edinburgh, serve as the first indication. The limestone buildings, many of which are original to the town's 1833 founding by Adam Fergusson and John Webster of Perthshire, are the second. The third, if you visit in August, is the sound of pipes.</p>
@@ -147,7 +148,7 @@ h1, h2 {text-align: center;}
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/27821534"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/27821534/thumbnail" width="100%" alt="visualization" /></noscript></div>
 
-<p class="caption">The photo sliders above feature landscapes and landmarks from all three towns alongside comparable scenes from Scotland. The visual parallels are prominent in the stone buildings, the river gorges, and the Highland Games imagery, all of which help explain why the original settlers recognised something familiar in this corner of Ontario, and why visitors with Scottish roots continue to feel that recognition today.</p>
+<p class="caption">The photo sliders above feature the Grand River (right) that runs through all three towns alongside comparable scenes from Scotland, The Devil's Pulpit (left). The visual parallels are prominent in the river gorges, which help explain why the original settlers recognised something familiar in this corner of Ontario, and why visitors with Scottish roots continue to feel that recognition today.</p>
 
 <h2>Guelph: the novelist's city</h2>
 
