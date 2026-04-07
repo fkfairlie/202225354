@@ -8,7 +8,7 @@ Assignment 2
 .story1 {background-color: #fdf6ee; padding: 10px;}
 .story2 {background-color: #1a3d2b; color: white; padding: 10px;}
 
-blockquote { border-left: 6px solid #b8860b;padding: 14px 18px; background: #fdf0e0;font-style; italic;border-radius: 0 6px 6px 0;}
+blockquote { border-left: 6px solid #b8860b;padding: 14px 18px; background: #fdf0e0;font-style; italic;border-radius: 0 6px 6px 0;font-size: 1.2em;}
 
 blockquote::before { content: '\201C';font-size: 3em;color: #b8860b;display: block;margin-bottom: -10px;font-style: normal;}
 
