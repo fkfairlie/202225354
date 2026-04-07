@@ -6,7 +6,7 @@ Assignment 2
 <style>
 
 .story1 {background-color: #fdf6ee; padding: 10px;}
-.story2 {background-color: #1a3a5c; color: white; padding: 10px;}
+..story2 {background-color: #1a3d2b; color: white; padding: 10px;}
 
 blockquote { border-left: 6px solid #b8860b;padding: 14px 18px; background: #fdf0e0;font-style; italic;border-radius: 0 6px 6px 0;}
 
