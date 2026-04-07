@@ -139,7 +139,8 @@ h1, h2 {text-align: center;}
 
 <p>The Fergus Scottish Festival and Highland Games is the town's largest annual event and one of the most significant celebrations of Scottish culture in North America. Every August, the town hosts pipe bands, Highland dancers, heavy athletes and clan societies from across Canada, the United States and Scotland itself. The event's reach extends far beyond a local curiosity. It is a genuine cultural gathering that draws visitors who travel specifically for it.</p>
 
-<!-- paste Datawrapper chart iframe here -->
+<div class="flourish-embed flourish-chart" data-src="visualisation/27821683"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/27821683/thumbnail" width="100%" alt="visualization" /></noscript></div>
+
 <p class="caption">The chart above shows attendance at the Fergus Scottish Festival and Highland Games over time. The vertical axis represents visitor numbers; positive growth across the period reflects the event's expanding reputation beyond Ontario and into the wider North American Scottish diaspora. The geographic breakdown of attendees illustrates that this is not a local event. It is a continental one.</p>
 
 <p>Beyond the Games, Fergus rewards slower exploration. The downtown core, centred on St Andrew Street, contains independent shops, Scottish-themed pubs and restaurants that lean into the town's heritage without tipping into theme-park territory. The public gardens along the Grand River offer a quieter counterpoint to the town's festival energy. For visitors with Scottish ancestry, there is something quietly affecting about walking streets named for the places linked to their ancestors.</p>
