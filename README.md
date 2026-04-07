@@ -34,11 +34,11 @@ h1, h2 {text-align: center;}
 
 <p><b>Arts and Culture</b></p>
 
-<h1>Alexander Stoddart: The Sculptor Keeping Classical Art Alive</h1>
+<h1>Alexander Stoddart: The Paisley Sculptor Keeping Classical Art Alive</h1>
 
 <p><i>One Scottish artist has spent his career defying the modern art movement, and the data suggests the world is finally catching up with him</i></p>
 
-<p>Alexander Stoddart does not make apologies for what he believes. In an era when the contemporary art world has celebrated abstraction, minimalism and conceptual work, the Paisley-born sculptor has quietly spent five decades doing something altogether different. Carving and casting monumental figures in the tradition of ancient Greece and Rome.</p>
+<p>Alexander Stoddart does not make apologies for what he believes. In an era when the contemporary art world has celebrated abstraction, minimalism and conceptual work, the Paisley-born sculptor has quietly spent five decades doing something completely different; carving and casting monumental figures in the tradition of ancient Greece and Rome.</p>
 
 <p>The results are unmistakable if you know where to look. On Edinburgh's Royal Mile, two bronze figures face the crowds: Adam Smith, the economist, and David Hume, the philosopher, both cast by Stoddart. Across the Atlantic, his statue of John Witherspoon stands at Princeton University in New Jersey. Now, a new quarter of Dallas, Texas, is being built in the traditionalist style, and its architects have turned to Stoddart for the monumental sculpture it requires.</p>
 
@@ -54,11 +54,13 @@ h1, h2 {text-align: center;}
 
 <h2>Who is Alexander Stoddart?</h2>
 
-<p>Born in Edinburgh in 1956 and raised in Paisley, Stoddart studied at The Glasgow School of Art between 1976 and 1980, followed by postgraduate study at the University of Glasgow. As the King's Sculptor in Ordinary since 2008, his career has been defined not just by the works he has produced, but by the argument they make: that neoclassical sculpture, rooted in the traditions of ancient Greece and Rome, demanding extraordinary technical skill and years of labour, has not had its day.</p>
+<p>Born in Edinburgh in 1956 and raised in Paisley, Stoddart studied at The Glasgow School of Art between 1976 and 1980, followed by postgraduate study at the University of Glasgow. As the King's Sculptor in Ordinary since 2008, his career has been defined not just by the works he has produced, but by the argument they make. A form rooted in the traditions of ancient Greece
+and Rome which demands extraordinary technical skill and years of labour, has not
+had its day.</p>
 
 <p>That argument has often put him at odds with the prevailing trend in the contemporary art world. Yet, his commissions tell a different story. Stoddart has been commissioned to create a statue of Elsie Inglis, which is currently in the early stages of development. His work also features in the collection at the Queen's Gallery at Buckingham Palace. The extensive range of his institutional support, from Paisley to Princeton, is remarkable for an artist working in a form that the mainstream art world has long regarded as outdated.</p>
 
-<p>What makes Stoddart's story relevant beyond biography, however, is what it reflects about a broader cultural shift. After decades in which abstract and contemporary work dominated both the critical conversation and the commercial art market, something is changing.</p>
+<p>However, what makes Stoddart's story relevant beyond biography is what it reflects about a broader cultural shift. After decades in which abstract and contemporary work dominated both the critical conversation and the commercial art market, something is changing.</p>
 
 <h2>The making of a statue: from sketch to bronze</h2>
 <div class="flourish-embed flourish-chart" data-src="visualisation/28397353"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/28397353/thumbnail" width="100%" alt="visualization" /></noscript></div>
@@ -70,7 +72,7 @@ h1, h2 {text-align: center;}
 
 <p>Stoddart has long argued that modern art's dominance is neither natural nor permanent. He has been making that case for decades. Now, for the first time, market data is beginning to support him.</p>
 
-<p>The chart below shows art market trends from the first half of 2025. The values displayed represent percentage change in sales and auction performance: positive values indicate growth in that category, while negative values represent a decline. Green bars show categories in growth; where bars fall below zero, that category is in retreat.</p>
+<p>The chart below shows art market trends from the first half of 2025. The values displayed represent percentage change in sales and auction performance: positive values indicate growth in that category, while negative values represent a decline. </p>
 
 <iframe title="Art Market 2025" aria-label="Bar Chart" id="datawrapper-chart-CIIpP" src="https://datawrapper.dwcdn.net/CIIpP/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="187" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
@@ -82,7 +84,7 @@ h1, h2 {text-align: center;}
 
 <h2>What gallery visitor data tells us</h2>
 
-<p>Commercial markets are one measure of shifting tastes. Public engagement is another, and here too, the picture tells a consistent story.</p>
+<p>Commercial markets are one measure of shifting tastes. Public engagement is another, and here too, the picture tells a similar story.</p>
 
 <p>The chart below tracks visitor figures for figurative and contemporary exhibitions across UK galleries over a ten-year period. The vertical axis represents visitor numbers; each data point reflects annual attendance figures drawn from National Gallery and Tate Modern published data.</p>
 
@@ -94,11 +96,13 @@ h1, h2 {text-align: center;}
 
 <h2>Why it matters</h2>
 
-<p>Alexander Stoddart is not a polemicist, despite what his beliefs might suggest. He is, primarily, a sculptor who has dedicated his life to the challenging, slow yet irreversible process of shaping bronze into human forms. His statues are situated in some of Britain and America's most notable public spaces. They will endure beyond the debates that surrounded their creation.</p>
+<p>Alexander Stoddart is not a polemicist, despite what his beliefs might suggest. He is primarily a sculptor who has dedicated his life to the challenging, yet irreversible process of shaping bronze into human forms. His statues are situated in some of Britain and America's most notable public spaces. They will endure beyond the debates that surrounded their creation.</p>
 
-<p>What his career demonstrates, and what the data now confirms, is that the assumptions guiding art discourse for much of the twentieth century, that abstraction was the future, that craft was reactionary, and that the contemporary always surpassed the classical, were never as clear-cut as they appeared. The market is shifting. Audiences are returning. And in studios in Paisley and Edinburgh, the work goes on.</p>
+<p>What his career demonstrates, and what the data now confirms, is that the assumptions guiding art discourse for much of the twentieth century, that abstraction was the future, that craft was reactionary, and that the contemporary always surpassed the classical, were never as clear-cut as they appeared. The market is shifting, audiences are returning, and in studios in Paisley and Edinburgh, the work goes on.</p>
 
-<p>For those who have never encountered Stoddart's output, the statues on the Royal Mile are a good place to start. Stand beside a figure and consider the years it took to put him there. Consider the sketch, the clay, the scale model, the polystyrene, the Stoddcrete, the bronze foundry in Nairn. Then consider whether what you are looking at is a relic of the past or a model for its future.</p>
+<p>For those who have never encountered Stoddart's output, the statues on the Royal Mile are a good place to start. Stand beside a figure and consider the years it took to put him there. Consider the sketch, the clay, the scale model, the polystyrene, the Stoddcrete, the bronze foundry in Nairn. His statues are situated in some of Britain and America's
+most notable public spaces and will endure beyond the debates that surrounded their creation.</p>
+
 
 <hr>
 <p><small>Sources: The Herald (Harrison, J., 2025); Public Statues and Sculpture Association (McKenzie, R., 2023); Prominent Painting (2025); The i Paper (n.d); Wikipedia (2025); National Galleries of Scotland; Edinburgh Expert (2025); Art UK (n.d); INTBAU (n.d); Penta Patterns (2024); The Burrell Collection; Paisley Scotland (2022).</small></p>
