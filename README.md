@@ -121,7 +121,8 @@ h1, h2 {text-align: center;}
 
 <p>This is the story of three towns that feel like secrets, despite having been there for nearly two hundred years.</p>
 
-<!-- paste Flourish storymap iframe here -->
+<iframe src="https://uploads.knightlab.com/storymapjs/ca49664519034dc90ce6b2898b4fc2d0/elora/index.html" frameborder="0" width="100%" height="800"></iframe>
+
 <p class="caption">The maps above plot the key landmarks, heritage sites and visitor attractions across all three towns. Each location marker includes contextual information about its history and significance.</p>
 
 <h2>Elora: Ontario's most beautiful village</h2>
