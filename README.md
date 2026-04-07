@@ -69,7 +69,8 @@ h1, h2 {text-align: center;}
 
 <p>The chart below shows art market trends from the first half of 2025. The values displayed represent percentage change in sales and auction performance: positive values indicate growth in that category, while negative values represent a decline. Green bars show categories in growth; where bars fall below zero, that category is in retreat.</p>
 
-<!-- paste Datawrapper bar chart iframe here -->
+<iframe title="Art Market 2025" aria-label="Bar Chart" id="datawrapper-chart-CIIpP" src="https://datawrapper.dwcdn.net/CIIpP/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="187" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+
 <p class="caption">Art market trends, first half of 2025. Source: Prominent Painting, 2025.</p>
 
 <p>The figures are striking. Traditional art forms characterised by high-skill craftsmanship, the category in which Stoddart's work sits, surged by 35.6% in the first half of 2025, according to data compiled by Prominent Painting. Impressionist and Modern art, by contrast, fell by 7.7% in the same period. This is not a minor fluctuation. It represents a meaningful reorientation of where collectors are placing their money and, by extension, their confidence.</p>
