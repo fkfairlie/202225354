@@ -101,7 +101,7 @@ h1, h2 {text-align: center;}
 <p>For those who have never encountered Stoddart's output, the statues on the Royal Mile are a good place to start. Stand beside a figure and consider the years it took to put him there. Consider the sketch, the clay, the scale model, the polystyrene, the Stoddcrete, the bronze foundry in Nairn. Then consider whether what you are looking at is a relic of the past or a model for its future.</p>
 
 <hr>
-<p><small>Sources: The Herald (Harrison, J., 2025); Public Statues and Sculpture Association (McKenzie, R., 2023); Prominent Painting (2025); The i Paper; Wikipedia (2025); National Galleries of Scotland; Edinburgh Expert (2025); Art UK; INTBAU; Penta Patterns (2024); The Burrell Collection; Paisley Scotland (2022).</small></p>
+<p><small>Sources: The Herald (Harrison, J., 2025); Public Statues and Sculpture Association (McKenzie, R., 2023); Prominent Painting (2025); The i Paper (n.d); Wikipedia (2025); National Galleries of Scotland; Edinburgh Expert (2025); Art UK; INTBAU; Penta Patterns (2024); The Burrell Collection; Paisley Scotland (2022).</small></p>
 
 </div>
 
@@ -175,7 +175,7 @@ h1, h2 {text-align: center;}
 <p>Scotland is an hour outside Toronto, if you know where to look.</p>
 
 <hr>
-<p><small>Sources: The Canadian Encyclopaedia (2026); Elora BIA (2024); Grand River Conservation Authority (2024); Downtown Fergus (2019); Fergus Scottish Festival (2025); City of Guelph (n.d.); Daily Record, Smail (2025).</small></p>
+<p><small> Sources: The Canadian Encyclopaedia (2026); Elora BIA (2024); Grand River Conservation Authority (2024); Downtown Fergus (2019); Fergus Scottish Festival (2025); City of Guelph (n.d.); Daily Record, Smail (2025); University of Guelph, Centre for Scottish Studies (n.d.); University of Guelph 60th Anniversary (2024); University of Guelph, Scottish Studies Foundation Chair (n.d.); Elora Mill Hotel and Spa (n.d.); University of Waterloo, Geology (2024); Wikipedia, Elora Gorge (2025); Ontario Hiking Trails (2025); Elorafergustoday (2021); Come Explore Canada (n.d.); Toronto Public Library (2018); Fergus Filming (2021); The Canadian Encyclopaedia, Fergus (2020); Holmstrom Ruddick (2024); Rahtours (2024); Wikipedia, Downtown Guelph (2023); The Crazy Tourist (2020).</small></p>
 
 </div>
 
