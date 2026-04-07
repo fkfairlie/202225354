@@ -36,7 +36,7 @@ h1, h2 {text-align: center;}
 
 <h1>Alexander Stoddart: The Paisley Sculptor Keeping Classical Art Alive</h1>
 
-<p><i>One Scottish artist has spent his career defying the modern art movement, and the data suggests the world is finally catching up with him</i></p>
+<p><i>One Scottish artist has spent his career defying the modern art movement, and the data suggests the world is finally catching up with him.</i></p>
 
 <p>Alexander Stoddart does not make apologies for what he believes. In an era when the contemporary art world has celebrated abstraction, minimalism and conceptual work, the Paisley-born sculptor has quietly spent five decades doing something completely different; carving and casting monumental figures in the tradition of ancient Greece and Rome.</p>
 
