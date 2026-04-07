@@ -8,7 +8,9 @@ Assignment 2
 .story1 {background-color: #f0f0f0; padding: 10px;}
 .story2 {background-color: #1a3a5c; color: white; padding: 10px;}
 
-blockquote {border-left: 4px solid #b8860b; padding: 10px; background: #e0e0e0; font-style: italic;}
+blockquote { border-left: 6px solid #b8860b;padding: 14px 18px; background: #fdf0e0;font-style; italic;border-radius: 0 6px 6px 0;}
+
+blockquote::before { content: '\201C';font-size: 3em;color: #b8860b;display: block;margin-bottom: -10px;font-style: normal;}
 
 .story2 blockquote {border-left: 4px solid #a8c8e8; background: #15304d;}
 
@@ -36,7 +38,7 @@ h1, h2 {text-align: center;}
 
 <p><i>One Scottish artist has spent his career defying the modern art movement, and the data suggests the world is finally catching up with him</i></p>
 
-<p>Alexander Stoddart does not make apologies for what he believes. In an era when the contemporary art world has celebrated abstraction, minimalism and conceptual work, the Paisley-born sculptor has quietly, stubbornly, spent five decades doing something altogether different: carving and casting monumental figures in the tradition of ancient Greece and Rome.</p>
+<p>Alexander Stoddart does not make apologies for what he believes. In an era when the contemporary art world has celebrated abstraction, minimalism and conceptual work, the Paisley-born sculptor has quietly spent five decades doing something altogether different. Carving and casting monumental figures in the tradition of ancient Greece and Rome.</p>
 
 <p>The results are unmistakable if you know where to look. On Edinburgh's Royal Mile, two bronze figures face the crowds: Adam Smith, the economist, and David Hume, the philosopher, both cast by Stoddart. Across the Atlantic, his statue of John Witherspoon stands at Princeton University in New Jersey. Now, a new quarter of Dallas, Texas, is being built in the traditionalist style, and its architects have turned to Stoddart for the monumental sculpture it requires.</p>
 
