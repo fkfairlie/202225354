@@ -19,7 +19,7 @@ h1, h2 {text-align: center;}
 
 .caption {font-size: 0.85em; color: grey;}
 
-.story2 .caption {color: #a8c8e8;}
+.story2 .caption {color: #cc0000;}
 
 
 
@@ -46,7 +46,7 @@ h1, h2 {text-align: center;}
 "For the past ten years I've been working with some architects in America," Stoddart told The Herald in 2025, "where they are building a new quarter in the city of Dallas in the traditionalist style... and they want some monumental sculpture for it. That's not a style for everyone, but for me, it's the highest calling man can reach."
 </blockquote>
 
-<iframe src="https://uploads.knightlab.com/storymapjs/ca49664519034dc90ce6b2898b4fc2d0/alexander-stoddarts-statues/index.html" frameborder="0" width="100%" height="800"></iframe>
+<iframe src="https://uploads.knightlab.com/storymapjs/ca49664519034dc90ce6b2898b4fc2d0/alexander-stoddarts-statues/index.html" frameborder="0" width="100%" height="800"></iframe> 
 
 <p class="caption">The map above traces the geographic reach of Stoddart's output, beginning in his hometown of Paisley and extending across Scotland, England, and the United States. Each location marker represents a major public commission or institutional placement.</p>
 
