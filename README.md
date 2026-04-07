@@ -45,6 +45,7 @@ h1, h2 {text-align: center;}
 </blockquote>
 
 <iframe src="https://uploads.knightlab.com/storymapjs/ca49664519034dc90ce6b2898b4fc2d0/alexander-stoddarts-statues/index.html" frameborder="0" width="100%" height="800"></iframe> 
+
 <p class="caption">The map above traces the geographic reach of Stoddart's output, beginning in his hometown of Paisley and extending across Scotland, England, and the United States. Each location marker represents a major public commission or institutional placement.</p>
 
 <h2>Who is Alexander Stoddart?</h2>
