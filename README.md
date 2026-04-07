@@ -82,7 +82,7 @@ h1, h2 {text-align: center;}
 
 <p>Commercial markets are one measure of shifting tastes. Public engagement is another, and here too, the picture tells a consistent story.</p>
 
-<p>The chart below tracks visitor figures for figurative and classical exhibitions against abstract and contemporary exhibitions across UK galleries over a ten-year period. The vertical axis represents visitor numbers; each data point reflects annual attendance figures drawn from National Gallery and Tate Modern published data. A minimum value of 30 has been applied to the lower axis to allow meaningful comparison across the range, which spans approximately 30 to over 100 (figures in hundreds of thousands). The gap between the two lines represents the consistent margin by which figurative and classical exhibitions have outdrawn their contemporary counterparts.</p>
+<p>The chart below tracks visitor figures for figurative and classical exhibitions against abstract and contemporary exhibitions across UK galleries over a ten-year period. The vertical axis represents visitor numbers; each data point reflects annual attendance figures drawn from National Gallery and Tate Modern published data.</p>
 
 <iframe title="Gallery Viewings per day" aria-label="Line chart" id="datawrapper-chart-h1v2Y" src="https://datawrapper.dwcdn.net/h1v2Y/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="371" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
@@ -101,7 +101,7 @@ h1, h2 {text-align: center;}
 <p>For those who have never encountered Stoddart's output, the statues on the Royal Mile are a good place to start. Stand beside a figure and consider the years it took to put him there. Consider the sketch, the clay, the scale model, the polystyrene, the Stoddcrete, the bronze foundry in Nairn. Then consider whether what you are looking at is a relic of the past or a model for its future.</p>
 
 <hr>
-<p><small>Sources: The Herald (Harrison, J., 2025); Public Statues and Sculpture Association (McKenzie, R., 2023); Prominent Painting (2025); The i Paper (n.d); Wikipedia (2025); National Galleries of Scotland; Edinburgh Expert (2025); Art UK; INTBAU; Penta Patterns (2024); The Burrell Collection; Paisley Scotland (2022).</small></p>
+<p><small>Sources: The Herald (Harrison, J., 2025); Public Statues and Sculpture Association (McKenzie, R., 2023); Prominent Painting (2025); The i Paper (n.d); Wikipedia (2025); National Galleries of Scotland; Edinburgh Expert (2025); Art UK (n.d); INTBAU (n.d); Penta Patterns (2024); The Burrell Collection; Paisley Scotland (2022).</small></p>
 
 </div>
 
