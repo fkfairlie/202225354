@@ -155,7 +155,7 @@ a significant cultural gathering that draws visitors who travel specifically for
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/27821534"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/27821534/thumbnail" width="100%" alt="visualization" /></noscript></div>
 
-<p class="caption">The photo sliders above feature the Grand River (right) that runs through all three towns alongside comparable scenes from Scotland, The Devil's Pulpit (left). The visual parallels are prominent in the river gorges, which help explain why the original settlers recognised something familiar in this corner of Ontario, and why visitors with Scottish roots continue to feel that recognition today.</p>
+<p class="caption">The photo sliders above feature the Elora Gorge that contains The Grand River (left), which runs through all three towns alongside comparable scenes from Scotland, The Devil's Pulpit (right). The visual parallels are prominent in the river gorges, which help explain why the original settlers recognised something familiar in this corner of Ontario, and why visitors with Scottish roots continue to feel that recognition today.</p>
 
 <h2>Guelph: the novelist's city</h2>
 
