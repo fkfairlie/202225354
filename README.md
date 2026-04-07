@@ -83,7 +83,8 @@ h1, h2 {text-align: center;}
 
 <p>The chart below tracks visitor figures for figurative and classical exhibitions against abstract and contemporary exhibitions across UK galleries over a ten-year period. The vertical axis represents visitor numbers; each data point reflects annual attendance figures drawn from National Gallery and Tate Modern published data. A minimum value of 30 has been applied to the lower axis to allow meaningful comparison across the range, which spans approximately 30 to over 100 (figures in hundreds of thousands). The gap between the two lines represents the consistent margin by which figurative and classical exhibitions have outdrawn their contemporary counterparts.</p>
 
-<!-- paste Datawrapper line chart iframe here -->
+<iframe title="Gallery Viewings per day" aria-label="Line chart" id="datawrapper-chart-h1v2Y" src="https://datawrapper.dwcdn.net/h1v2Y/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="371" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+
 <p class="caption">UK gallery visitor figures, figurative and classical vs abstract and contemporary exhibitions over ten years. Figures in hundreds of thousands. Source: National Gallery and Tate Modern visitor data.</p>
 
 <p>Across the decade covered by this data, exhibitions centred on figurative and classical work have consistently attracted larger audiences than abstract equivalents. The margin narrows in some years and widens in others, but the direction of travel is clear. People, given the choice, are drawn to the human figure, to the recognisable, the skilled, the permanent.</p>
