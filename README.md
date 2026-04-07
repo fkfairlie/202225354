@@ -19,7 +19,7 @@ h1, h2 {text-align: center;}
 
 .caption {font-size: 0.85em; color: grey;}
 
-.story2 .caption {color: #cc0000;}
+.story2 .caption {color: #cc2823;}
 
 
 
