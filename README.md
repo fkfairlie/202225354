@@ -59,9 +59,8 @@ h1, h2 {text-align: center;}
 <p>What makes Stoddart's story relevant beyond biography, however, is what it reflects about a broader cultural shift. After decades in which abstract and contemporary work dominated both the critical conversation and the commercial art market, something is changing.</p>
 
 <h2>The making of a statue: from sketch to bronze</h2>
-
 <div class="flourish-embed flourish-chart" data-src="visualisation/28397353"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/28397353/thumbnail" width="100%" alt="visualization" /></noscript></div>
-<p class="caption">The timeline above visualises each stage of the process, from initial sketch to public installation. Photo sliders at each stage allow readers to observe the transformation of material and scale across the full production process.</p>
+<p class="caption">The step-by-step visual above demonstrates each stage of the process, from initial sketch to public installation.</p>
 
 <p>From first sketch to public installation, the process can span years. It is, by any measure, the opposite of what the contemporary art market has often celebrated: rapid production, conceptual gesture, the idea over the execution. Stoddart's work demands the opposite — prolonged, painstaking, irreversible commitment.</p>
 
